@@ -21,7 +21,7 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
 
     a_matrix = [ENNET_HOUSE,ENFIELD_TENNIS)ACADEMY]
-  
+
 end
 
 def array_literal_matrix
