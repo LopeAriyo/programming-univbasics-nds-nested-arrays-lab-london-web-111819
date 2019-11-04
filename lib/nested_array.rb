@@ -30,7 +30,7 @@ def array_literal_matrix
   # alphabetically by the first character.
 
   b_matrix = [ENNET_HOUSE.sort,ENFIELD_TENNIS_ACADEMY.sort]
-  
+
 end
 
 def matrix_lookup(matrix, row, column)
